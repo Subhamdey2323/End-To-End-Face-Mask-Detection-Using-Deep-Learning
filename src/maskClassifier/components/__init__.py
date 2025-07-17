@@ -1,0 +1,1 @@
+from maskClassifier.components.data_ingestion import DataIngestion

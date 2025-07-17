@@ -1,0 +1,1 @@
+from maskClassifier.entity.config_entity import DataIngestionConfig
